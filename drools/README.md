@@ -1,4 +1,4 @@
-## Drools
+## Drools - Adel
 
 This module contains articles about Drools
 
